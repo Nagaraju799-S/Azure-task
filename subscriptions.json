@@ -1,0 +1,18 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "00815e92-4462-4f27-ae51-c7475c568ec5",
+    "id": "f127a1a4-ee57-4959-992d-9bddbf4f5d69",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Azure subscription 1",
+    "state": "Enabled",
+    "tenantDefaultDomain": "purplenowtech.com",
+    "tenantDisplayName": "Purplenow Technologies",
+    "tenantId": "00815e92-4462-4f27-ae51-c7475c568ec5",
+    "user": {
+      "name": "nagaraju.singireddi@purplenowtech.com",
+      "type": "user"
+    }
+  }
+]
